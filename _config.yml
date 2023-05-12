@@ -124,3 +124,7 @@ feed: # Feed Atom
 #   path: ''
 #   per_page: 10
 #   order_by: -date
+sitemap:
+	path: sitemap.xml
+baidusitemap:
+	path: baidusitemap.xml
